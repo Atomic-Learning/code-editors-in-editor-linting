@@ -1,22 +1,19 @@
 {
-    "title": "",
+    "title": "Code Editors: In-Editor Linting",
     "slug": "",
-    "description": "",
+    "description": "A description of linting tools in editors which lint code in real-time as it is created.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "software-engineering",
+        "programming"
     ],
-    "duration": 0,
+    "duration": 3,
     "prerequisites": [
-        "",
-        ""
+        "software-engineering-linting",
+        "programming-editors-ides"
     ],
     "related": [
-        "",
-        ""
     ]
 }
